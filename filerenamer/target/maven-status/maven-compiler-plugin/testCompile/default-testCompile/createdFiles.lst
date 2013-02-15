@@ -1,0 +1,4 @@
+com/apn/filerenamer/ui/ProcessFilesTest.class
+com/apn/filerenamer/ui/UtilsTest.class
+com/apn/filerenamer/persistence/PersistentMovieLibraryTest.class
+com/apn/filerenamer/entities/Movie.class

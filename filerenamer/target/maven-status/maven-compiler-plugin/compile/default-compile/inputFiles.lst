@@ -1,0 +1,11 @@
+/Users/antonionascimento/Desktop/dev/movie-library/filerenamer/src/main/java/com/apn/filerenamer/ui/Utils.java
+/Users/antonionascimento/Desktop/dev/movie-library/filerenamer/src/main/java/com/apn/filerenamer/persistence/MovieLibrary.java
+/Users/antonionascimento/Desktop/dev/movie-library/filerenamer/src/main/java/com/apn/filerenamer/entities/Movie.java
+/Users/antonionascimento/Desktop/dev/movie-library/filerenamer/src/main/java/com/apn/filerenamer/ui/FileFilters.java
+/Users/antonionascimento/Desktop/dev/movie-library/filerenamer/src/main/java/com/apn/filerenamer/ui/FileRenamer.java
+/Users/antonionascimento/Desktop/dev/movie-library/filerenamer/src/main/java/com/apn/filerenamer/persistence/MorphiaDb.java
+/Users/antonionascimento/Desktop/dev/movie-library/filerenamer/src/main/java/com/apn/filerenamer/ui/ExitActionListener.java
+/Users/antonionascimento/Desktop/dev/movie-library/filerenamer/src/main/java/com/apn/filerenamer/persistence/PersistentMovieLibrary.java
+/Users/antonionascimento/Desktop/dev/movie-library/filerenamer/src/main/java/com/apn/filerenamer/ui/CustomModelListener.java
+/Users/antonionascimento/Desktop/dev/movie-library/filerenamer/src/main/java/com/apn/filerenamer/ui/ProcessFiles.java
+/Users/antonionascimento/Desktop/dev/movie-library/filerenamer/src/main/java/com/apn/filerenamer/persistence/AlreadyInLibraryException.java
