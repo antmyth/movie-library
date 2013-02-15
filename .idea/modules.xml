@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/filerenamer/filerenamer.iml" filepath="$PROJECT_DIR$/filerenamer/filerenamer.iml" />
       <module fileurl="file://$PROJECT_DIR$/movie-library.iml" filepath="$PROJECT_DIR$/movie-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-fixtures/test-fixtures.iml" filepath="$PROJECT_DIR$/test-fixtures/test-fixtures.iml" />
     </modules>
   </component>
 </project>
